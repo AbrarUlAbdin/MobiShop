@@ -1,0 +1,37 @@
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\MobileStoreManagementSystem.exe.config
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\MobileStoreManagementSystem.exe
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\MobileStoreManagementSystem.pdb
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.Properties.Resources.resources
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.exe
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.pdb
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.Form1.resources
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csproj.CopyComplete
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_NewPhone.resources
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_Customer.resources
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.Search.resources
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_Record.resources
+C:\Users\pc\source\repos\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_DeletePhone.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\MobileStoreManagementSystem.exe.config
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\MobileStoreManagementSystem.exe
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\MobileStoreManagementSystem.pdb
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\bin\Debug\Guna.UI2.dll
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csprojAssemblyReference.cache
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.Search.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_Customer.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_DeletePhone.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_NewPhone.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.UC_Record.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.Form1.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.Properties.Resources.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.UC_Login.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csproj.GenerateResource.cache
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csproj.CoreCompileInputs.cache
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.csproj.CopyComplete
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.exe
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.pdb
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.AllUserControl.Picture.resources
+F:\Fourth Semester\DataBase Systems Lab\Projects\MobileStoreManagementSystem\MobileStoreManagementSystem\obj\Debug\MobileStoreManagementSystem.NewUser.resources
